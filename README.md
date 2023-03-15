@@ -1,2 +1,2 @@
-# codingan-pertamana
+# codingan-pertama
 repository untuk menyimpan codingan
